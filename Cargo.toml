@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+sha2 = "0.10"  # En son sürümü kullanmak için "0.10" yazabilirsiniz
